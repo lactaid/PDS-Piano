@@ -2,3 +2,5 @@
 model/data/*
 
 /model/data
+/model/hand_data
+model/pianoHand.h5
